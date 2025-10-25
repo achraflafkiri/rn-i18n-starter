@@ -1,0 +1,9 @@
+{
+  "welcome": "Welcome",
+  "currentLanguage": "Current Language",
+  "rtlStatus": "RTL Status",
+  "selectLanguage": "Select Language",
+  "settings": {
+    "language": "Language"
+  }
+}

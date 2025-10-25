@@ -1,0 +1,9 @@
+{
+  "welcome": "مرحباً",
+  "currentLanguage": "اللغة الحالية",
+  "rtlStatus": "حالة الكتابة",
+  "selectLanguage": "اختر اللغة",
+  "settings": {
+    "language": "اللغة"
+  }
+}
